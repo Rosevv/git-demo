@@ -13,5 +13,5 @@ hello rose hello git
 hello rose hello git
 hello rose hello git
 hello rose hello git
-hello rose hello git
+hello rose hello git hot-fix checkout
 
